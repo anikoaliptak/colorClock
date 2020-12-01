@@ -1,0 +1,20 @@
+* {
+	box-sizing:                border-box;
+}
+
+html, body {
+	height:                    100%;
+}
+
+.clock {
+	height:                    100%;
+	display:                   flex;
+	flex-basis:                100wv;
+	justify-content:           center;
+}
+
+.clock_counter {
+  align-self:                center;
+	font-family:               'EB Garamond', sans-serif;
+	font-size:                 5.75rem;
+}
