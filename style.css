@@ -17,4 +17,5 @@ html, body {
   align-self:                center;
 	font-family:               'EB Garamond', sans-serif;
 	font-size:                 5.75rem;
-}
+	color:                     rgba(255,255,255);
+ }
