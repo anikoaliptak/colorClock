@@ -23,7 +23,7 @@ function colorClock() {
 	console.log(clockFace);
 	
 
-  document.getElementById('clock_counter').innerHTML = clockFace;
+  document.getElementById("clockCounter").innerHTML = clockFace;
 	document.body.style.background = hexColor;
 	
 	setTimeout(function() {
