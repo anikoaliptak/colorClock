@@ -13,7 +13,7 @@ html, body {
 	justify-content:           center;
 }
 
-.clock_counter {
+#clockCounter {
   align-self:                center;
 	font-family:               'EB Garamond', sans-serif;
 	font-size:                 5.75rem;
